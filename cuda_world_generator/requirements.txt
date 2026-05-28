@@ -1,0 +1,18 @@
+# CUDA Physically Accurate Procedural World Generator - Requirements
+# Core dependencies (always required)
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# GPU acceleration (optional - auto-detected)
+# Install one of these for CUDA support:
+# cupy-cuda12x        # For CUDA 12.x
+# cupy-cuda11x        # For CUDA 11.x
+# numba>=0.57.0       # Alternative CUDA backend
+
+# Visualization (optional)
+# vispy>=0.12.0       # OpenGL-accelerated visualization
+# Pillow>=9.0.0       # Image processing
+
+# Export (optional)
+# open3d>=0.17.0      # 3D mesh export and rendering
