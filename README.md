@@ -19,6 +19,30 @@ A GPU-accelerated procedural world generation engine that creates Earth-like pla
 
 ---
 
+## Gallery
+
+Below are the output maps generated from a single seed. Each image represents one data layer from the 7-stage pipeline.
+
+### Terrain & Geology
+
+| Heightmap | Biome Map |
+|:---------:|:---------:|
+| ![Heightmap](./heightmap.png) | ![Biome Map](./biome_map.png) |
+
+### Climate & Atmosphere
+
+| Temperature | Humidity | Rainfall |
+|:-----------:|:--------:|:--------:|
+| ![Temperature](./temperature_c.png) | ![Humidity](./humidity.png) | ![Rainfall](./rainfall.png) |
+
+### Hydrology & Ecosystems
+
+| Rivers | Vegetation | Animals | Biodiversity |
+|:------:|:----------:|:-------:|:------------:|
+| ![Rivers](./rivers.png) | ![Vegetation](./vegetation.png) | ![Animals](./animals.png) | ![Biodiversity](./biodiversity.png) |
+
+---
+
 ## Architecture
 
 ```
