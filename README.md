@@ -27,19 +27,19 @@ Below are the output maps generated from a single seed. Each image represents on
 
 | Heightmap | Biome Map |
 |:---------:|:---------:|
-| ![Heightmap](.Outputs/heightmap.png) | ![Biome Map](.Outputs/biome_map.png) |
+| ![Heightmap](./heightmap.png) | ![Biome Map](./biome_map.png) |
 
 ### Climate & Atmosphere
 
 | Temperature | Humidity | Rainfall |
 |:-----------:|:--------:|:--------:|
-| ![Temperature](.Outputs/temperature_c.png) | ![Humidity](.Outputs/humidity.png) | ![Rainfall](.Outputs/rainfall.png) |
+| ![Temperature](./temperature_c.png) | ![Humidity](./humidity.png) | ![Rainfall](./rainfall.png) |
 
 ### Hydrology & Ecosystems
 
 | Rivers | Vegetation | Animals | Biodiversity |
 |:------:|:----------:|:-------:|:------------:|
-| ![Rivers](.Outputs/rivers.png) | ![Vegetation](.Outputs/vegetation.png) | ![Animals](.Outputs/animals.png) | ![Biodiversity](.Outputs/biodiversity.png) |
+| ![Rivers](./rivers.png) | ![Vegetation](./vegetation.png) | ![Animals](./animals.png) | ![Biodiversity](./biodiversity.png) |
 
 ---
 
